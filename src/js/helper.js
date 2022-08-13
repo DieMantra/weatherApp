@@ -1,4 +1,4 @@
-import { API_URL, GEO_API } from './config.js';
+import { API_URL, GEO_API, GEO_KEY } from './config.js';
 
 export function startTime() {
 	const hours = document.getElementById('hours');

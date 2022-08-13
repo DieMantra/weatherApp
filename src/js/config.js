@@ -8,7 +8,7 @@
 // // https://api.openweathermap.org/data/2.5/onecall?lat=-38.180480&lon=144.513410&units=metric&exclude=minutely,hourly,alerts&appid=757af3d52f7592d65bc9fb1804cfcffa
 
 // // API Geolocation
-export const GEO_API = 'http://api.positionstack.com/v1/reverse';
+export const GEO_API = 'https://api.positionstack.com/v1/reverse';
 export const GEO_KEY = 'ef425a05d03569ac568939084288dff3';
 
 export const API_URL = 'https://api.weather.bom.gov.au/v1/locations';
